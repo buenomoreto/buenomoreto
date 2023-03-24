@@ -17,5 +17,5 @@
 
 <div>
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=buenomoreto&show_icons=true&theme=dracula" />&nbsp
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buenomoreto&layout=compact&theme=dracula" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buenomoreto&layout=compact&theme=dracula" />
 </div>
