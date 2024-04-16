@@ -3,8 +3,6 @@
 :notebook: Programador front-end Pleno
 
 ##
-
-:notebook: Programador front-end Pleno
 :point_right: :point_left: [![Portifolio](https://buenofelipe.com/favicon.ico)](https://buenofelipe.com/)
 
 ##
