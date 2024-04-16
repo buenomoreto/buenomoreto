@@ -1,6 +1,7 @@
 <img width="180em" src="https://github.com/buenomoreto/logo/blob/main/logo-github.svg" />
 
 :notebook: Programador front-end Pleno
+[![Portifolio](https://buenofelipe.com/favicon.ico)](https://buenofelipe.com/)
 
 ##
 <div style="display: inline_block"><br>
