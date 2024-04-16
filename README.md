@@ -3,7 +3,7 @@
 :notebook: Programador front-end Pleno
 
 ##
-:point_right: :point_left: [![Portifolio](https://buenofelipe.com/favicon.ico)](https://buenofelipe.com/)
+[![Portifolio](https://buenofelipe.com/favicon.ico)](https://buenofelipe.com/)
 
 ##
 <div style="display: inline_block"><br>
